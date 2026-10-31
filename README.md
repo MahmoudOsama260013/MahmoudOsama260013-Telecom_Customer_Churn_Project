@@ -2,6 +2,20 @@
 
 A Python data analysis project focused on understanding customer churn in a telecommunications company and exploring the factors associated with customers leaving the service.
 
+## Analysis Results Preview
+
+The following values are reported in the committed notebook's saved outputs. They are descriptive analysis results, not prediction scores.
+
+| Finding | Result |
+| --- | ---: |
+| Customer records | 7,043 |
+| Dataset columns | 21 |
+| Customers who churned | 1,869 |
+| Customers who remained | 5,174 |
+| Customers with monthly charges above 80 | 2,666 |
+
+The most common payment method was **Electronic check** (2,365 customers). Average monthly charges were **66.40** for month-to-month contracts, **65.05** for one-year contracts, and **60.77** for two-year contracts. These summaries do not establish what causes churn.
+
 ## Project Objective
 
 The goal is to practice a data-analysis workflow by cleaning telecom customer data and exploring patterns associated with churn.
