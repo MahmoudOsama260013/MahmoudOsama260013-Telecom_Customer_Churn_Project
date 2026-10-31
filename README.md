@@ -45,10 +45,9 @@ The notebook covers the following analysis and programming activities:
 - Jupyter Notebook
 - Pandas
 - NumPy
-- Matplotlib
-- Scikit-learn
+- openpyxl (Excel reporting)
 
-> The exact package versions used in the project are listed in `requirements.txt`.
+ > Installation dependencies are listed in `requirements.txt`; the notebook currently uses NumPy, Pandas, and openpyxl.
 
 ## Dataset
 
@@ -91,11 +90,9 @@ Through this project, I practiced:
 - Working with real-world tabular data
 - Cleaning and preparing data for analysis
 - Exploratory data analysis
-- Data visualization
-- Feature preparation
 - Data analysis workflow
 - Exporting results to Excel
-- Organizing a complete data science project
+- Organizing a data analysis project
 
 ## Future Improvements
 
