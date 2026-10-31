@@ -4,7 +4,7 @@ A Python data analysis project focused on understanding customer churn in a tele
 
 ## Project Objective
 
-The goal of this project is to analyze telecom customer data, identify patterns related to churn, and practice a data-analysis workflow and explore patterns associated with customer churn.
+The goal is to practice a data-analysis workflow by cleaning telecom customer data and exploring patterns associated with churn.
 
 ## Project Files
 
@@ -15,7 +15,7 @@ The goal of this project is to analyze telecom customer data, identify patterns 
 
 ## Project Workflow
 
-The notebook covers the main stages of a data science project:
+The notebook covers the following analysis and programming activities:
 
 1. Data loading and exploration
 2. Data cleaning and preprocessing
@@ -87,15 +87,13 @@ Through this project, I practiced:
 
 Possible improvements include:
 
-- Comparing additional machine learning models
-- Adding more advanced feature engineering
-- Performing hyperparameter tuning
-- Improving model evaluation and interpretability
-- Deploying the model as a simple web application
-- Adding clearer visual summaries of the main findings
+- Add clearer visual summaries of the main findings
+- Extend the analysis with an initial machine learning baseline and appropriate evaluation
+- Explore feature engineering and compare models after establishing a baseline
+- Consider an interactive dashboard for presenting analysis results
 
 ## Author
 
-**Mahmoud Osama**
+**Mahmoud Osama Hassan Alsagga**
 
 Data Science & Artificial Intelligence Student
