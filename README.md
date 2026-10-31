@@ -4,11 +4,11 @@ A Python data analysis project focused on understanding customer churn in a tele
 
 ## Project Objective
 
-The goal of this project is to analyze telecom customer data, identify patterns related to churn, and build a clear data-driven workflow that can support churn prediction and customer-retention decisions.
+The goal of this project is to analyze telecom customer data, identify patterns related to churn, and practice a data-analysis workflow and explore patterns associated with customer churn.
 
 ## Project Files
 
-- `final_project.ipynb` — Main Jupyter Notebook containing the analysis and project workflow.
+- `telecom_customer_churn_analysis.ipynb` — Main Jupyter Notebook containing the analysis and project workflow.
 - `WA_Fn-UseC_-Telco-Customer-Churn.csv` — Dataset used in the project.
 - `Project_Report.xlsx` — Project report / supporting analysis.
 - `requirements.txt` — Python dependencies required to run the project.
@@ -21,9 +21,9 @@ The notebook covers the main stages of a data science project:
 2. Data cleaning and preprocessing
 3. Exploratory Data Analysis (EDA)
 4. Investigation of customer churn patterns
-5. Feature preparation
-6. Model building and evaluation
-7. Interpretation of the results
+5. Python programming exercises and NumPy operations
+6. Pandas data cleaning and analysis
+7. Excel export and interpretation of results
 
 ## Technologies Used
 
@@ -67,7 +67,7 @@ pip install -r requirements.txt
 4. Open the Jupyter Notebook:
 
 ```bash
-jupyter notebook final_project.ipynb
+jupyter notebook telecom_customer_churn_analysis.ipynb
 ```
 
 ## What I Practiced
@@ -79,8 +79,8 @@ Through this project, I practiced:
 - Exploratory data analysis
 - Data visualization
 - Feature preparation
-- Machine learning workflow
-- Model evaluation
+- Data analysis workflow
+- Exporting results to Excel
 - Organizing a complete data science project
 
 ## Future Improvements
